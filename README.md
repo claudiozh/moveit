@@ -2,14 +2,6 @@
   <img alt="moveit" title="moveit" src="public/logo-full.svg" width="220px" />
 </h1>
 
-<p align="center">
- <a href="#-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
- <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#-tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#-license">Licença</a>
-</p>
-
-
 ## 🖊 Sobre
 
 Projeto feito durante a <strong>Next Level Week #4</strong> da <a href="http://app.rocketseat.com.br">Rocketseat</a>. O intuito do evento era para realizar o desenvolvimento de uma aplicação voltada para todos que ficam diretamente na frente do computador (principalmente desenvolvedores) através do uso de tecnologias que estão em alta no mercado (ReactJS - Foco em utilização do NextJS).
